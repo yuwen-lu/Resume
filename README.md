@@ -2,4 +2,4 @@
 
 My personal Resume
 
-- [Resume](<./Resume(YuwenLu).pdf>)
+- [Resume](<./resume-yuwen-lu.pdf>)
